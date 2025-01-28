@@ -12,7 +12,7 @@
     <artifactId>rml-adapter</artifactId>
 
     <properties>
-        <carml.version>0.4.9</carml.version>
+        <carml.version>0.4.11</carml.version>
     </properties>
 
     <dependencies>
